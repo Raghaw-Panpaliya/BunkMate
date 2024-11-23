@@ -11,6 +11,8 @@ import json
 import os
 
 
+#This is a comment timepass
+
 APP_NAME = "BunkBuddy"
 WEBSITE  = "https://bunkmate.netlify.app/"
 CREATOR = "https://coderstation.netlify.app/"
