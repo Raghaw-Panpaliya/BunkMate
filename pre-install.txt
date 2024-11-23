@@ -1,0 +1,11 @@
+Hello,
+
+This is BunkBuddy, created on 27 April, 2023. This is just a tool to make attendance predictions. This is useful for the following operations:
+
+1) Classes you can leave without going down the threshhold.
+2) Classes you need to attend to reach the threashold.
+3) Calcuate with Yellow form included.
+
+So, I hope this application is somewhat useful. :D
+
+Created By: Raghaw Panpaliya
